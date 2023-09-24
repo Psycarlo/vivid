@@ -1,0 +1,38 @@
+{
+  "name": "vivid",
+  "version": "0.0.1",
+  "description": "Beautifully designed dashboard components built with Vue, Tailwind CSS and Headless UI",
+  "main": "index.js",
+  "repository": "https://github.com/Psycarlo/vivid",
+  "bugs": {
+    "url": "https://github.com/Psycarlo/vivid/issues"
+  },
+  "author": {
+    "name": "Psycarlo",
+    "email": "psycarlo1@gmail.com",
+    "url": "https://www.instagram.com/psybitcoin"
+  },
+  "private": true,
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev": "turbo run dev --parallel",
+    "lint": "turbo run lint",
+    "lint:fix": "turbo run lint:fix",
+    "format": "turbo run format",
+    "format:fix": "turbo run format:fix"
+  },
+  "packageManager": "pnpm@8.6.10",
+  "dependencies": {
+    "turbo": "^1.10.14"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "Vue",
+    "Dashboard",
+    "Tailwind",
+    "HeadlessUI",
+    "UI",
+    "Charts"
+  ]
+}
