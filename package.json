@@ -1,7 +1,7 @@
 {
   "name": "vivid",
   "version": "0.0.1",
-  "description": "Beautifully designed dashboard components built with Vue, Tailwind CSS and Headless UI",
+  "description": "Beautifully designed dashboard components built with Vue, Tailwind CSS and Radix Vue.",
   "main": "index.js",
   "repository": "https://github.com/Psycarlo/vivid",
   "bugs": {

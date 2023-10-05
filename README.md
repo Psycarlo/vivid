@@ -6,3 +6,22 @@
 <br>
 <br>
 <br>
+
+## Instalation
+
+todo
+
+## Development Setup
+
+### Package
+
+todo
+
+### Docs
+
+todo: test locally with pnpm link
+
+## Inspiration
+
+- [Tremor](https://www.tremor.so/)
+- [Sonner](https://sonner.emilkowal.ski/)
